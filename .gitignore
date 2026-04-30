@@ -1,0 +1,25 @@
+# Node modules (if using React/Node)
+node_modules/
+
+# Logs
+*.log
+
+# Environment files (VERY IMPORTANT)
+.env
+
+# OS files
+.DS_Store
+
+# Build folders
+dist/
+build/
+
+# SSH keys (just in case)
+*.pem
+*.key
+id_ed25519*
+id_rsa*
+kapilnagi007
+
+# Public keys (optional)
+*.pub
